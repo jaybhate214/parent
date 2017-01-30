@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jan 17 13:55:14 EST 2017
+http\://mavencentral.it.att.com\:8084/nexus/content/groups/swm/.error=Could not transfer artifact com.googlecode.efficient-java-matrix-library\:ejml\:pom\:0.23 from/to nexus (http\://mavencentral.it.att.com\:8084/nexus/content/groups/swm)\: C\:\\Users\\jb307a\\.m2\\repository\\com\\googlecode\\efficient-java-matrix-library\\ejml\\0.23\\aether-04b77f7d-2058-42e0-8651-ff262b75de61-ejml-0.23.pom-in-progress (The system cannot find the file specified)
+@one.proxy.att.com\:8080>@default-nexus-http\://mavencentral.it.att.com\:8084/nexus/content/groups/swm/.lastUpdated=1484679314796

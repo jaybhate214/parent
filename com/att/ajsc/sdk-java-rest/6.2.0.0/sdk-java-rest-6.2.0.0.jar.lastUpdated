@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jan 17 13:57:03 EST 2017
+http\://mavencentral.it.att.com\:8084/nexus/content/groups/swm/.error=Could not transfer artifact com.att.ajsc\:sdk-java-rest\:jar\:6.2.0.0 from/to nexus (http\://mavencentral.it.att.com\:8084/nexus/content/groups/swm)\: C\:\\Users\\jb307a\\.m2\\repository\\com\\att\\ajsc\\sdk-java-rest\\6.2.0.0\\aether-4eeed4de-6ff5-4550-965c-01ae41608a6f-sdk-java-rest-6.2.0.0.jar-in-progress (The system cannot find the file specified)
+@one.proxy.att.com\:8080>@default-nexus-http\://mavencentral.it.att.com\:8084/nexus/content/groups/swm/.lastUpdated=1484679423078

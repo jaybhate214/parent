@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jan 17 13:55:10 EST 2017
+http\://mavencentral.it.att.com\:8084/nexus/content/groups/swm/.error=Could not transfer artifact com.fasterxml.jackson.datatype\:jackson-datatype-joda\:pom\:2.6.7 from/to nexus (http\://mavencentral.it.att.com\:8084/nexus/content/groups/swm)\: C\:\\Users\\jb307a\\.m2\\repository\\com\\fasterxml\\jackson\\datatype\\jackson-datatype-joda\\2.6.7\\aether-f5d6cf7d-6dce-40ce-a47c-aeafc821d1c5-jackson-datatype-joda-2.6.7.pom-in-progress (The system cannot find the file specified)
+@one.proxy.att.com\:8080>@default-nexus-http\://mavencentral.it.att.com\:8084/nexus/content/groups/swm/.lastUpdated=1484679310626
